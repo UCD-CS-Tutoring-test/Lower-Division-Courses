@@ -1,0 +1,21 @@
+[submodule "ECS-032A"]
+	path = ECS-032A
+	url = https://github.com/UCD-CS-Tutoring-Club/ECS-032A
+[submodule "ECS-032B"]
+	path = ECS-032B
+	url = https://github.com/UCD-CS-Tutoring-Club/ECS-032B
+[submodule "ECS-036A"]
+	path = ECS-036A
+	url = https://github.com/UCD-CS-Tutoring-Club/ECS-036A
+[submodule "ECS-036B"]
+	path = ECS-036B
+	url = https://github.com/UCD-CS-Tutoring-Club/ECS-036B
+[submodule "ECS-036C"]
+	path = ECS-036C
+	url = https://github.com/UCD-CS-Tutoring-Club/ECS-036C
+[submodule "ECS-020"]
+	path = ECS-020
+	url = https://github.com/UCD-CS-Tutoring-Club/ECS-020
+[submodule "ECS-050"]
+	path = ECS-050
+	url = https://github.com/UCD-CS-Tutoring-Club/ECS-050
